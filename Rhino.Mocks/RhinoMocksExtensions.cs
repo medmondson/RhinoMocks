@@ -421,7 +421,7 @@ namespace Rhino.Mocks
 
 		/// <summary>
 		/// Raise the specified event using the passed arguments.
-		/// The even is extracted from the passed labmda
+		/// The event is extracted from the passed labmda
 		/// </summary>
 		/// <typeparam name="TEventSource">The type of the event source.</typeparam>
 		/// <param name="mockObject">The mock object.</param>
